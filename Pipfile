@@ -9,3 +9,5 @@ verify_ssl = true
 
 [requires]
 python_version = "3.8"
+
+cowpy==1.0.3
